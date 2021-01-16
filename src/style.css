@@ -1,1 +1,52 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQIVPHaj9CZFSH1HFCAb3N1dd8t6zy9j53Cg&usqp=CAU");
+}
+
+h1 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #fff;
+}
+
+.pokercard {
+  display: inline-block;
+  text-align: center;
+  background-color: #fff;
+  margin: auto;
+  width: 350px;
+  height: 500px;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 0.4em 0.2em rgba(0, 0, 0, 0.5);
+  position: relative;
+}
+
+.top-suit {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  font-size: 62px;
+}
+
+.bottom-suit {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  font-size: 62px;
+}
+
+.numbers {
+  text-align: center;
+  padding-top: 80px;
+  font-size: 180px;
+}
+
+.colorVariant {
+  color: red;
+}
+
+.btn {
+  margin-top: 30px;
+}
