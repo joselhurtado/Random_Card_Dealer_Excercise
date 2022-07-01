@@ -1,4 +1,6 @@
-# Hello World with Vanilla JS
+# RANDOM CARD DEALER EXERCISE
+
+<img src="/src/RANDOM CARD DEALER EXERCISE.png">
 
 Start coding in 30 seconds by opening this template in gitpod:
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git)
